@@ -1,3 +1,6 @@
+## [DEPRECATED REPOSITORY]
+We moved all the works to https://github.com/gilt/swig
+
 # gilt-swig-util
 
 Contains utility modules for swig.
